@@ -8,5 +8,9 @@ namespace Hello
         {
             Console.WriteLine("Hello World!");
         }
+        static void GreetWhite()
+        {
+            Console.WriteLine("Hello White");
+        }
     }
 }
