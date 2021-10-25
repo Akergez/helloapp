@@ -12,5 +12,9 @@ namespace Hello
         {
             Console.WriteLine("Hello White");
         }
+        static void GreetBlack()
+        {
+            Console.WriteLine("Hello Black");
+        }
     }
 }
